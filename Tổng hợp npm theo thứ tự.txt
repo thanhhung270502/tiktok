@@ -1,0 +1,3 @@
+
+# tippy: https://github.com/atomiks/tippyjs
+npm i @tippyjs/react

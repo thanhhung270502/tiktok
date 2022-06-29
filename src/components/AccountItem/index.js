@@ -10,7 +10,8 @@ function AccountItem() {
         <div className={cx('wrapper')}>
             <img
                 className={cx('avatar')}
-                src="https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b66a0bcd3a383c26d7a05c09365266b5~c5_300x300.webp?x-expires=1656230400&x-signature=yBDeRqDnHQe8IkFyBuvXvOgu0Og%3D"
+                src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.6435-9/128605485_1071473169965818_8508939777649885107_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=rr-GGHYCQp4AX80bAWc&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT_DA7etJY6svziIyP171FLLPEuDGuQS4sqfUB_ep6NReQ&oe=62E196E1"
+                // src="https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/273727832_682016636157763_1569302612958504638_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=v-wEJLIfstUAX9p_dgK&_nc_ht=scontent-hkt1-2.xx&oh=00_AT_xlMhCN8KPas8C-j2thYmlDXk0xHt6DwBVYk5Gp-_-BA&oe=62BE2311"
                 alt="Hoaa"
             />
             <div className={cx('info')}>
